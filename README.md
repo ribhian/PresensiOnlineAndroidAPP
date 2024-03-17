@@ -1,9 +1,9 @@
 # Presensi Online
 # Our Team
-- Muhammad Ribhiansyah - 1207050080
-- Muhammad Widianto - 1207050083
-- Muhammad Zahidy Syawal - 1207050084
-- Nada Lutfiyah - 1207050087
+- Muhammad Ribhiansyah
+- Muhammad Widianto
+- Muhammad Zahidy Syawal
+- Nada Lutfiyah
 
 <p><a href="http://if.uinsgd.ac.id/" rel="nofollow">Teknik Informatika</a></p>
 <a href="https://uinsgd.ac.id/" rel="nofollow">UIN Sunan Gunung Djati Bandung</a>
